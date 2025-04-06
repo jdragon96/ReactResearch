@@ -19,3 +19,10 @@ yarn add d3 @types/d3
 
 
 ## 세부 기능
+
+
+## 스크린샷
+
+- 2025.04.06 dashboard
+
+![2025.04.06 dashboard](screenshot/dashboard.png)
